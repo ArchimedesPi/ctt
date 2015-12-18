@@ -2,4 +2,4 @@
 
 MODULES = app
 
-SPIFF_FILES = fs
+SPIFF_FILES = web
